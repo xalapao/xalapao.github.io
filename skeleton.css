@@ -443,6 +443,8 @@ These are customizations to the base theme for iaindunning.com
 .hidelink { color: #222; text-decoration: none; }
 img { max-width: 100%; }
 
+.hidelink2 { text-decoration: none; }
+
 /**
  * Syntax highlighting styles
  */
