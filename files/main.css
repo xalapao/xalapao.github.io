@@ -12,7 +12,7 @@ body {
   overflow-x: hidden;
   padding-top: 80px;
   background-color: #272822;
-  color: #999;
+  color: #bababa;
   position: relative;
   max-width: 100%;
 }
@@ -231,3 +231,12 @@ iframe {
   top: -80px;
   visibility: hidden;
 }
+
+a {
+  color: #e76f51;
+  }
+  a:hover {
+  color: #f4a261;
+  text-decoration: none;
+  border-bottom: 1px dashed #f4a261;
+  }
