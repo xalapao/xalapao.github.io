@@ -174,11 +174,11 @@ iframe {
 }
 
 #news {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 #projects {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 .media {
@@ -251,3 +251,5 @@ a {
   text-decoration: none;
   /* border-bottom: 1px dashed #f4a261;*/
   }
+
+.lowkey { color: #a1a1a1; font-style: italic; text-decoration: none; font-size: 18px; pointer-events: none; }
